@@ -22,7 +22,7 @@ p {
 }
 
 img {
-    width: 400px;
+    width: 250px;
     border: 10px dashed white;
     /* Center below, idk if correct */
     display: block;
